@@ -41,13 +41,3 @@ Conferences
   
 <font size=2>ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025. 
 (Accept, Oral Presentation)
-  
-[comment]: <> (Publications)
-
-[comment]: <> (======)
-
-[comment]: <> (  <ul>{% for post in site.publications reversed %})
-
-[comment]: <> (    {% include archive-single-cv.html %})
-
-[comment]: <> (  {% endfor %}</ul>)
