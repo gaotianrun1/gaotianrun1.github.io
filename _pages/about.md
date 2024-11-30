@@ -23,24 +23,4 @@ My researches focus on:
 ·Physics-informed intelligent assessment and control of impact on complex infrastructure systems;                       
 ·Automated numerical modeling and AI for scientific simulation & design.
 
-# 📝 Publications
-[My Google Scholar](https://scholar.google.com/citations?user=TcyZu_8AAAAJ&hl=zh-CN)
 
-# 🎖 Honors and Awards
-- Top Ten Candidate of the School of Construction Engineering in Tianjin University
-- Tianjin University Alumni Scholarship
-- Outstanding students of Tianjin University
-- Tianjin Municipal Government Scholarship
-- Tianjin University Research and Design Institute Scholarship
-
-# 📖 Educations
-- *2022.09 - Now*, Ph.D., the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS).
-- *2018.09 - 2022.06*, Bachelor of Mathematics and Applied Mathematics (major) & Computer Science (minor), the University of Chinese Academy of Sciences (UCAS).
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2023.02 - 2023.08*, Research intern with [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/).
-- *2021.11 - 2022.07*, Research intern with [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en) and [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [Machine Learning Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
