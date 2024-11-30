@@ -6,14 +6,11 @@
 
 main:
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Experience"
+    url: /experience/  
     
-  - title: "CV"
-    url: /cv/
-
   - title: "Publications"
     url: /publications/
     
-  - title: "Experience"
-    url: /experience/
+  - title: "CV"
+    url: /cv/
