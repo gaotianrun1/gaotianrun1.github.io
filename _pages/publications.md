@@ -36,8 +36,9 @@ redirect_from:
 (Oral Presentation) </font>
 
 *<font size=3> **T. R. Gao**, D. M. Zhang, X. M. Liu, H. W. Huang. Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling. </font>
-  
-<font size=2>ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025. 
+
+<font size=2>ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025.
 (Accept, Oral Presentation) </font>
 
 ## 📝[My Google Scholar](https://scholar.google.com/citations?user=TcyZu_8AAAAJ&hl=zh-CN)
+
