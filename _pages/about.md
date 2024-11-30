@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tianrun Gao (高天润)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,11 +16,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Tianrun Gao (高天润 in Chinese) is currently a second year Ph.D. student at [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm), advised by Prof. Hongwei Huang ([Researchgate](https://www.researchgate.net/profile/H-Huang-4)). He completed her undergraduate studies at [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022, majoring in Civil Engineering. 
+I am currently a third year Ph.D. student at [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm), advised by Prof. Hongwei Huang ([Researchgate](https://www.researchgate.net/profile/H-Huang-4)). I completed my undergraduate studies at [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022, majoring in Civil Engineering. 
 
-She currently is a visiting student of [AI for Scientific Simulation and Discovery Lab](https://ai4s.lab.westlake.edu.cn/) at [Westlake University](https://en.westlake.edu.cn/), mentored by [Tailin Wu](https://tailin.org/). She was an intern of [Microsoft Research Asia](https://www.msra.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), mentored by [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/) and [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en). She is also a member of [AI4Science Research Project](https://ai4sci-research.github.io). 
-
-Her researches focus on AI for PDE/physical system simulation and control.
+My researches focus on: 
+·Experimental and numerical methods for the simulation of tunneling influence;
+·Physics-informed intelligent assessment and control of impact on complex infrastructure systems;
+·Automated numerical modeling and AI for scientific simulation & design.
 
 # 📝 Publications
 [My Google Scholar](https://scholar.google.com/citations?user=TcyZu_8AAAAJ&hl=zh-CN)
