@@ -29,5 +29,5 @@ redirect_from:
 ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025.
 (Accept, Oral Presentation)</font>
 
-## 📝[My Google Scholar](https://scholar.google.com/citations?user=TcyZu_8AAAAJ&hl=zh-CN)
+## 📝[My Google Scholar](https://scholar.google.com/citations?user=pkez5wUAAAAJ&hl=zh-CN&oi=sra)
 
