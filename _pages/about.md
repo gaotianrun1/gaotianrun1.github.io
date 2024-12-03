@@ -21,5 +21,6 @@ I am currently a third year Ph.D. student at [School of Civil Engineering, Tongj
 My researches focus on:                                                                                                                              
 ·Physics-informed intelligent assessment and control of impact on complex engineering systems;                       
 ·Automated numerical modeling and AI for physics simulation & design;
+
 ·Experimental and numerical methods for the simulation and analysis of tunneling influence.
 
