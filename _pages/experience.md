@@ -23,7 +23,7 @@ redirect_from:
 ## 💪 Skills
 - Software:
   - Proficient with Abaqus (FEM), FLAC3D (FDM), Python, MS Office, Origin, AutoCAD,.
-  - Familiar with Matlab, PFC3D (DEM), Rhino, Hypermesh.
+  - Familiar with Matlab, PFC3D (DEM), SPH, Rhino, Hypermesh.
 - English Skills:
   - TOEFL: 102. GRE: 324.
   - Fluent in oral English, with fairly strong reading and writing ability.
