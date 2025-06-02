@@ -20,7 +20,10 @@ redirect_from:
 * <font size=3> J. Z. Zhang, T. R. Gao. Compressibility of Abnormal Pressure Gas Reservoirs and its Effect on Reserves. ACS omega, 2021, 6(40): 26221-26230. </font>
 [Click to Access](https://doi.org/10.1021/acsomega.1c03228)
 
-## Conferences
+## Conferences (* represents equal contribution)
+
+* <font size=3>Q. Y. Chen*, T. R. Gao*, C. B. Jiang*, T. L. Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. Neural Information Processing Systems (NeurIPS 2025).
+(Under Review) </font>
 
 * <font size=3>T. R. Gao, J. W. Jia, X. M. Liu, W. J. Zhang, H. W. Huang. 3D refined numerical simulation analysis of the impact of shield tunnel construction on adjacent pile foundation and soil. 2022 China Tunnel and Underground Engineering Conference (CTUC2022), Changsha, China, 2023.
 (Oral Presentation) </font>
@@ -30,7 +33,7 @@ redirect_from:
 
 * <font size=3>T. R. Gao, D. M. Zhang, X. M. Liu, H. W. Huang. Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling.
 ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025.
-(Accept for Oral Presentation)</font>
+</font>
 
 ## 📝[My Google Scholar](https://scholar.google.com/citations?user=pkez5wUAAAAJ&hl=zh-CN&oi=sra)
 
