@@ -20,7 +20,9 @@ I am currently a third year Ph.D. student at [School of Civil Engineering, Tongj
 
 My researches focus on:                                                                                                                              
 ·AI for Science (physical simulation & design & control & discovery).
+
 ·Physics-informed modeling and control of complex engineering systems.
+
 ·Automated numerical and experimental methods in engineering.
 
 
