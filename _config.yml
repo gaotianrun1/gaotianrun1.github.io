@@ -24,7 +24,7 @@ author:
   avatar           : "https://i.postimg.cc/C583DW9t/202105190023485.jpg"
   name             : "Tianrun Gao"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
+  bio              : # "PhD Student"
   location         : "Shanghai, China"
   employer         : "Tongji University"
   uri              : # URL
