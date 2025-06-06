@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third year Ph.D. student at [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm), advised by Prof. Hongwei Huang. I completed my undergraduate studies at [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022, majoring in Civil Engineering. 
+I am currently a third year graduate student at [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm), advised by Prof. Hongwei Huang. I completed my undergraduate studies at [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022, majoring in Civil Engineering. 
 
 My researches focus on:                                                                                                                              
 ·AI for Science (physical simulation & design & control & discovery).                   
