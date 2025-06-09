@@ -22,7 +22,7 @@ redirect_from:
 
 ## Conferences (* represents equal contribution)
 
-* <font size=3>Q. Y. Chen*, T. R. Gao*, C. B. Jiang*, T. L. Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. [Click to Access]([https://arxiv.org/abs/2506.05797v1]) (Submitted to NeurIPS 2025) </font>
+* <font size=3>Q. Y. Chen*, T. R. Gao*, C. B. Jiang*, T. L. Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to NeurIPS 2025) </font> [Click to Access]([https://arxiv.org/abs/2506.05797v1])
 
 * <font size=3>T. R. Gao, D. M. Zhang, X. M. Liu, H. W. Huang. Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling. ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025. </font>
 
