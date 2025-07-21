@@ -25,7 +25,7 @@ redirect_from:
 * <font size=3>Q. Y. Chen*, T. R. Gao*, C. B. Jiang*, T. L. Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to NeurIPS 2025) </font>
 [Click to Access](https://arxiv.org/abs/2506.05797v1)
 
-* <font size=3>T. R. Gao, D. M. Zhang, X. M. Liu, H. W. Huang. Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling. ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025. </font>
+* <font size=3>T. R. Gao, D. M. Zhang, X. M. Liu, H. W. Huang. [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm) Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling. ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025. </font>
 [Click to Access](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003559047-82/data-based-risk-evaluation-4-overlapped-existing-subway-tunnels-undercrossed-shield-tunneling-tianrun-gao-dongming-zhang-xiaomin-liu-hongwei-huang)
 
 * <font size=3>T. R. Gao, D. M. Zhang, H. W. Huang. Experimental Study on Tunneling-Induced Disturbance and Propagation in Complex Environment. 2025 PIARC, Chongqing, [China](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003559047-82/data-based-risk-evaluation-4-overlapped-existing-subway-tunnels-undercrossed-shield-tunneling-tianrun-gao-dongming-zhang-xiaomin-liu-hongwei-huang), 2025.
