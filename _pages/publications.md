@@ -22,16 +22,16 @@ redirect_from:
 
 ## Conferences (* represents equal contribution)
 
-* Q. Y. Chen*, T. R. Gao*, C. B. Jiang*, T. L. Wu. [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm) EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to NeurIPS 2025)
+* <font size=3> Q. Y. Chen*, T. R. Gao*, C. B. Jiang*, T. L. Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to NeurIPS 2025) </font>
 [Click to Access](https://arxiv.org/abs/2506.05797v1)
 
-* <font size=3>T. R. Gao, D. M. Zhang, X. M. Liu, H. W. Huang. [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm) Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling. ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025. </font>
+* <font size=3> T. R. Gao, D. M. Zhang, X. M. Liu, H. W. Huang. Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling. ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025. </font>
 [Click to Access](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003559047-82/data-based-risk-evaluation-4-overlapped-existing-subway-tunnels-undercrossed-shield-tunneling-tianrun-gao-dongming-zhang-xiaomin-liu-hongwei-huang)
 
-* <font size=3>T. R. Gao, D. M. Zhang, H. W. Huang. Experimental Study on Tunneling-Induced Disturbance and Propagation in Complex Environment. 2025 PIARC, Chongqing, [China](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003559047-82/data-based-risk-evaluation-4-overlapped-existing-subway-tunnels-undercrossed-shield-tunneling-tianrun-gao-dongming-zhang-xiaomin-liu-hongwei-huang), 2025.
+* <font size=3> T. R. Gao, D. M. Zhang, H. W. Huang. Experimental Study on Tunneling-Induced Disturbance and Propagation in Complex Environment. 2025 PIARC, Chongqing, 2025.
 (Oral Presentation) </font>
 
-* <font size=3>T. R. Gao, D. M. Zhang, H. W. Huang. Study on Predicting Existing Tunnel Settlement Induced by Shield Tunneling Based on Machine Learning. The 2nd Workshop on Future of Machine Learning in Geotechnics and the 5th Machine Learning in Geotechnics Dialogue (2FOMLIG & 5MLIGD), Chengdu, China, 2024.
+* <font size=3> T. R. Gao, D. M. Zhang, H. W. Huang. Study on Predicting Existing Tunnel Settlement Induced by Shield Tunneling Based on Machine Learning. The 2nd Workshop on Future of Machine Learning in Geotechnics and the 5th Machine Learning in Geotechnics Dialogue (2FOMLIG & 5MLIGD), Chengdu, China, 2024.
 (Oral Presentation) </font>
 
 * <font size=3>T. R. Gao, J. W. Jia, X. M. Liu, W. J. Zhang, H. W. Huang. 3D refined numerical simulation analysis of the impact of shield tunnel construction on adjacent pile foundation and soil. 2022 China Tunnel and Underground Engineering Conference (CTUC2022), Changsha, China, 2023.
