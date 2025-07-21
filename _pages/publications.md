@@ -28,6 +28,9 @@ redirect_from:
 * <font size=3>T. R. Gao, D. M. Zhang, X. M. Liu, H. W. Huang. Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling. ITA World Tunnel Congress 2025, Stockholm, Sweden, 2025. </font>
 [Click to Access](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003559047-82/data-based-risk-evaluation-4-overlapped-existing-subway-tunnels-undercrossed-shield-tunneling-tianrun-gao-dongming-zhang-xiaomin-liu-hongwei-huang)
 
+* <font size=3>T. R. Gao, D. M. Zhang, H. W. Huang. Experimental Study on Tunneling-Induced Disturbance and Propagation in Complex Environment. 2025 PIARC, Chongqing, [China](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003559047-82/data-based-risk-evaluation-4-overlapped-existing-subway-tunnels-undercrossed-shield-tunneling-tianrun-gao-dongming-zhang-xiaomin-liu-hongwei-huang), 2025.
+(Oral Presentation) </font>
+
 * <font size=3>T. R. Gao, D. M. Zhang, H. W. Huang. Study on Predicting Existing Tunnel Settlement Induced by Shield Tunneling Based on Machine Learning. The 2nd Workshop on Future of Machine Learning in Geotechnics and the 5th Machine Learning in Geotechnics Dialogue (2FOMLIG & 5MLIGD), Chengdu, China, 2024.
 (Oral Presentation) </font>
 
