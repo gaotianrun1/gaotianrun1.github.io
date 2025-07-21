@@ -11,7 +11,7 @@ redirect_from:
 
 ## Journals
 
-* <font size=3> H. W. Huang, T. R. Gao, D. M. Zhang. A Hybrid Approach for Modifying Tunneling-Induced Response in Existing Multi-Tunnel Environment. Computers and Geotechnics, 2025, 179, 106921. </font>
+* <font size=3> H. W. Huang, T. R. Gao, D. M. Zhang. A Hybrid Approach for Modifying Tunneling-Induced Response in Existing Multi-Tunnel Environment. Computers and Geotechnics, 2025, 179, 106921. </font> 
 [Click to Access](https://doi.org/10.1016/j.compgeo.2024.106921)
 
 * <font size=3> R. Jia, T. R. Gao, G. Yang. Analysis on the Influence of Construction Stress Release and Disturbance on Seismic Response of Tunnel. Chinese Journal of Underground Space and Engineering, 2022, 18(S2): 916-925. </font>
