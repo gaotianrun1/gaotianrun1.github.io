@@ -17,11 +17,11 @@ redirect_from:
 
 * J. Z. Zhang, **T. R. Gao**. Compressibility of Abnormal Pressure Gas Reservoirs and its Effect on Reserves. [ACS omega](https://doi.org/10.1021/acsomega.1c03228), 2021, 6(40): 26221-26230.
 
-## Conferences (* represents equal contribution)
+## Conferences († represent equal contribution)
 
-* Qianyi Chen*, **Tianrun Gao***, Chenbo Jiang*, Tailin Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to [ICLR 2026](https://arxiv.org/abs/2506.05797v1))
+* Qianyi Chen†, **Tianrun Gao**†, Chenbo Jiang†, Tailin Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to [ICLR 2026](https://arxiv.org/abs/2506.05797v1))
 
-* **Tianrun Gao***, Haoren Zheng*, Wenhao Deng*, Haodong Feng, Tao Zhang, Ruiqi Feng, Qianyi Chen, Tailin Wu. GenCP: Towards Generative Modeling Paradigm of Coupled physics with Application to Fluid-Structure Interaction. (Submitted to [ICLR 2026](https://iclr.cc/))
+* **Tianrun Gao**†, Haoren Zheng†, Wenhao Deng†, Haodong Feng, Tao Zhang, Ruiqi Feng, Qianyi Chen, Tailin Wu. GenCP: Towards Generative Modeling Paradigm of Coupled physics with Application to Fluid-Structure Interaction. (Submitted to [ICLR 2026](https://iclr.cc/))
 
 * Tian Xia, **Tianrun Gao**, Wenhao Deng, Long Wei, Xiaowei Qian, Jiang Yixian, Chenglei Yu, Tailin Wu. BuildArena: A Physics‑Aligned Interactive Benchmark of LLMs for Engineering Construction. (Submitted to [ICLR 2026](https://iclr.cc/))
 
