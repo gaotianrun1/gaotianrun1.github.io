@@ -21,9 +21,9 @@ Currently, I am studying as internship at [AI for Scientifc Simulation and Disco
 I completed my undergraduate studies at [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022, majoring in Civil Engineering. 
 
 My researches mainly focus on:                                                                                                                              
-·AI for physical simulation & design & control & discovery.
-·Mechanics and AI empowered mechanics.                
-·Robotics and Generative AI for science.                      
+·AI for physical simulation & design & control & discovery.<br>
+·Mechanics and AI empowered mechanics.<br>
+·Robotics and Generative AI for science.<br>
 ·Automated numerical simulation of mechanical & engineering systems and uncertainty analysis.
 
 
