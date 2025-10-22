@@ -19,13 +19,13 @@ redirect_from:
 
 ## Conferences († represent equal contribution)
 
-* Qianyi Chen†, **Tianrun Gao**†, Chenbo Jiang†, Tailin Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to [ICLR 2026](https://arxiv.org/abs/2506.05797v1))
+* Qianyi Chen†, **Tianrun Gao**†, Chenbo Jiang†, Tailin Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to [AI Conference](https://arxiv.org/abs/2506.05797v1))
 
-* **Tianrun Gao**†, Haoren Zheng†, Wenhao Deng†, Haodong Feng, Tao Zhang, Ruiqi Feng, Qianyi Chen, Tailin Wu. GenCP: Towards Generative Modeling Paradigm of Coupled physics with Application to Fluid-Structure Interaction. (Submitted to [ICLR 2026](https://iclr.cc/))
+* **Tianrun Gao**†, Haoren Zheng†, Wenhao Deng†, Haodong Feng, Tao Zhang, Ruiqi Feng, Qianyi Chen, Tailin Wu. GenCP: Towards Generative Modeling Paradigm of Coupled physics with Application to Fluid-Structure Interaction. (Submitted to [AI Conference](https://iclr.cc/))
 
-* Tian Xia, **Tianrun Gao**, Wenhao Deng, Long Wei, Xiaowei Qian, Jiang Yixian, Chenglei Yu, Tailin Wu. BuildArena: A Physics‑Aligned Interactive Benchmark of LLMs for Engineering Construction. (Submitted to [ICLR 2026](https://iclr.cc/))
+* Tian Xia, **Tianrun Gao**, Wenhao Deng, Long Wei, Xiaowei Qian, Jiang Yixian, Chenglei Yu, Tailin Wu. BuildArena: A Physics‑Aligned Interactive Benchmark of LLMs for Engineering Construction. (Submitted to [AI Conference](https://build-arena.github.io/))
 
-* Peiyan Hu, Haodong Feng, Hongyuan Liu, Tongtong Yan, Wenhao Deng, **Tianrun Gao**, Rong Zheng, Haoren Zheng, Chenglei Yu, Chuanrui Wang, Kaiwen Li, Zhi-Ming Ma, Dezhi Zhou, Xingcai Lu, Dixia Fan, Tailin Wu. RealBench: A Benchmark for Complex Physical Systems with Real-World Data. (Submitted to [ICLR 2026](https://iclr.cc/))
+* Peiyan Hu, Haodong Feng, Hongyuan Liu, Tongtong Yan, Wenhao Deng, **Tianrun Gao**, Rong Zheng, Haoren Zheng, Chenglei Yu, Chuanrui Wang, Kaiwen Li, Zhi-Ming Ma, Dezhi Zhou, Xingcai Lu, Dixia Fan, Tailin Wu. RealBench: A Benchmark for Complex Physical Systems with Real-World Data. (Submitted to [AI Conference](https://iclr.cc/))
 
 * **T. R. Gao**, D. M. Zhang, X. M. Liu, H. W. Huang. Data-based Risk Evaluation on 4 Overlapped Existing Subway Tunnels Undercrossed by Shield Tunneling. ITA [World Tunnel Congress 2025](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003559047-82/data-based-risk-evaluation-4-overlapped-existing-subway-tunnels-undercrossed-shield-tunneling-tianrun-gao-dongming-zhang-xiaomin-liu-hongwei-huang), Stockholm, Sweden, 2025.
 
