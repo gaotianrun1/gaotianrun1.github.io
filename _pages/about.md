@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a master student at [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm), advised by Prof. Hongwei Huang. 
-Currently, I am studying as internship at the [Department of AI3 at Fudan University]() and also at the [Shanghai Academy of AI for Science (SAIS)](), supervised by [Prof. Longwei](https://longweizju.github.io/).
+Currently, I am studying as internship at the [Artificial Intelligence Innovation and Incubation Institute at Fudan University](https://ai3.fudan.edu.cn/) and also at the [Shanghai Academy of AI for Science (SAIS)](https://www.sais.com.cn/), supervised by [Prof. Longwei](https://longweizju.github.io/).
 I completed my undergraduate studies at [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022. 
 
 My researches mainly focus on:                                                                                                                              
