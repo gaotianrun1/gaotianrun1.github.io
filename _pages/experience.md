@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## 📕 Educations
-- *2024.12 - Now*, Visiting Student of Department of AI, Westlake University, Supervised by [Prof. Tailin Wu](https://tailin.org/).
+- *2025.10 - Now*, Internship at the Department of AI3, Fudan University, Supervised by [Prof. Long Wei](https://tailin.org/).
+- *2024.12 - 2025.10*, Internship at the Department of AI, Westlake University, Supervised by [Prof. Tailin Wu](https://tailin.org/).
 - *2022.09 - Now*, Master of Civil Engineering, Tongji University.
 - *2021.07 - 2021.11*, Research Internship Funded by Mitacs Globalink, University of Toronto (online)
 - *2018.09 - 2022.06*, Bachelor of Engineering, Tianjin University.

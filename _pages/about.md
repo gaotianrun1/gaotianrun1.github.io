@@ -17,11 +17,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a master student at [School of Civil Engineering, Tongji University](https://civileng.tongji.edu.cn/main.htm), advised by Prof. Hongwei Huang. 
-Currently, I am studying as internship at [AI for Scientifc Simulation and Discovery Lab](https://ai4s.lab.westlake.edu.cn/) in the AI department of Westlake University, supervised by [Prof. Tailin Wu](https://tailin.org/).
-I completed my undergraduate studies at [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022, majoring in Civil Engineering. 
+Currently, I am studying as internship at the [Department of AI3 at Fudan University]() and also at the [Shanghai Academy of AI for Science (SAIS)](), supervised by [Prof. Longwei](https://longweizju.github.io/).
+I completed my undergraduate studies at [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022. 
 
 My researches mainly focus on:                                                                                                                              
-·AI for physical simulation & design & control & discovery.<br>
+·AI for physical simulation & design & control & discovery (especially on PDE & Fusion Energy).<br>
 ·Mechanics and AI empowered mechanics.<br>
 ·Robotics and Generative AI for science.<br>
 ·Automated numerical simulation of mechanical & engineering systems and uncertainty analysis.
