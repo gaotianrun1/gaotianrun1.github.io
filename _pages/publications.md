@@ -16,7 +16,7 @@ redirect_from:
 
 * **Tianrun Gao**†, Haoren Zheng†, Wenhao Deng†, Haodong Feng, Tao Zhang, Ruiqi Feng, Qianyi Chen, Tailin Wu. GenCP: Towards Generative Modeling Paradigm of Coupled physics with Application to Fluid-Structure Interaction. ([ICLR 2026, Poster](https://arxiv.org/abs/2601.19541))
 
-* Tian Xia, **Tianrun Gao**, Wenhao Deng, Long Wei, Xiaowei Qian, Jiang Yixian, Chenglei Yu, Tailin Wu. BuildArena: A Physics‑Aligned Interactive Benchmark of LLMs for Engineering Construction. (Submitted to [ICML 2026](https://build-arena.github.io/))
+* Tian Xia, **Tianrun Gao**, Wenhao Deng, Long Wei, Xiaowei Qian, Jiang Yixian, Chenglei Yu, Tailin Wu. BuildArena: A Physics‑Aligned Interactive Benchmark of LLMs for Engineering Construction. ([ICML 2026, Poster](https://build-arena.github.io/))
 
 * Qianyi Chen†, **Tianrun Gao**†, Chenbo Jiang†, Tailin Wu. EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator. (Submitted to [KDD 2026](https://arxiv.org/abs/2506.05797v1))
 
