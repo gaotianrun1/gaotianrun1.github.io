@@ -23,8 +23,8 @@ I completed my undergraduate studies at [Tianjin University](https://www.tju.edu
 My researches mainly focus on:                                                                                                                              
 ·AI for physical simulation & design & control & discovery (especially on PDE & Fusion Energy).<br>
 ·Mechanics and AI empowered mechanics.<br>
-·Robotics and Generative AI for science.<br>
-·Automated numerical simulation of mechanical & engineering systems and uncertainty analysis.
+·Agentic system and generative AI for science.<br>
+·Automated numerical simulation of mechanical & engineering systems.
 
 
 
