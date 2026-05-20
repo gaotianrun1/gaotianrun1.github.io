@@ -4,28 +4,63 @@ layout: compress
 
 {% include base_path %}
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+{% if site.redirect_url %}
+  {% assign redirect_path = "" %}
+  {% case page.url %}
+    {% when "/about/" %}
+      {% assign redirect_path = "/about" %}
+    {% when "/experience/" %}
+      {% assign redirect_path = "/about" %}
+    {% when "/publications/" %}
+      {% assign redirect_path = "/work" %}
+    {% when "/cv/" %}
+      {% assign redirect_path = "/cv" %}
+    {% when "/404.html" %}
+      {% assign redirect_path = "" %}
+    {% else %}
+      {% assign redirect_path = "" %}
+  {% endcase %}
+  {% assign redirect_target = site.redirect_url | append: redirect_path %}
+  <!doctype html>
+  <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+    <head>
+      <meta charset="utf-8">
+      <meta name="robots" content="noindex,nofollow">
+      <meta http-equiv="refresh" content="0; url={{ redirect_target }}">
+      <link rel="canonical" href="{{ redirect_target }}">
+      <title>Redirecting...</title>
+      <script>
+        window.location.replace({{ redirect_target | jsonify }});
+      </script>
+    </head>
+    <body>
+      <p>Redirecting to <a href="{{ redirect_target }}">{{ redirect_target }}</a>.</p>
+    </body>
+  </html>
+{% else %}
+  <!doctype html>
+  <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+    <head>
+      {% include head.html %}
+      {% include head/custom.html %}
+    </head>
 
-  <body>
+    <body>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+      {% include browser-upgrade.html %}
+      {% include masthead.html %}
 
-    {{ content }}
+      {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+      <div class="page__footer">
+        <footer>
+          {% include footer/custom.html %}
+          {% include footer.html %}
+        </footer>
+      </div>
 
-    {% include scripts.html %}
+      {% include scripts.html %}
 
-  </body>
-</html>
+    </body>
+  </html>
+{% endif %}
