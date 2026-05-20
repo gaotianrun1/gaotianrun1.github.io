@@ -16,5 +16,5 @@
   <circle cx="817" cy="204" r="70" fill="#72e7b2" opacity=".12"/>
   <text x="96" y="122" fill="#d9fbff" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700">RealBench</text>
   <text x="98" y="174" fill="#9ee7ef" font-family="Inter, Arial, sans-serif" font-size="24">Complex physical systems with real-world data</text>
-  <text x="98" y="580" fill="#d5fff0" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600">ICLR 2026 Oral</text>
+  <text x="98" y="580" fill="#d5fff0" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600">Benchmark for real-world physical systems</text>
 </svg>
