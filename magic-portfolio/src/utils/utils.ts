@@ -24,8 +24,9 @@ type Metadata = {
 import { notFound } from "next/navigation";
 
 function getMDXFiles(dir: string) {
+  // An absent directory means no posts (git drops empty dirs); it is not a 404.
   if (!fs.existsSync(dir)) {
-    notFound();
+    return [];
   }
 
   return fs.readdirSync(dir).filter((file) => path.extname(file) === ".mdx");
