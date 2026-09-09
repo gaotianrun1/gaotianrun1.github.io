@@ -11,7 +11,9 @@ interface RouteGuardProps {
 }
 
 const RouteGuard: React.FC<RouteGuardProps> = ({ children }) => {
-  const pathname = usePathname();
+  // With trailingSlash: true (static export), usePathname() returns "/about/"
+  // while the routes table keys have no trailing slash; normalize before matching.
+  const pathname = (usePathname() ?? "").replace(/\/+$/, "") || "/";
   const [isRouteEnabled, setIsRouteEnabled] = useState(false);
   const [isPasswordRequired, setIsPasswordRequired] = useState(false);
   const [password, setPassword] = useState("");

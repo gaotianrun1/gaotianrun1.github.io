@@ -43,7 +43,9 @@ const TimeDisplay: React.FC<TimeDisplayProps> = ({ timeZone, locale = "en-GB" })
 export default TimeDisplay;
 
 export const Header = () => {
-  const pathname = usePathname() ?? "";
+  // Normalize the trailing slash that trailingSlash: true adds, so the
+  // active-route comparisons below match the keys in the routes table.
+  const pathname = (usePathname() ?? "").replace(/\/+$/, "") || "/";
 
   return (
     <>
