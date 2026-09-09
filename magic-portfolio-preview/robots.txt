@@ -1,3 +1,0 @@
-User-Agent: *
-
-Sitemap: https://gaotianrun1.github.io/magic-portfolio-preview/sitemap.xml
