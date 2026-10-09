@@ -337,7 +337,7 @@ const about: About = {
       },
       {
         name: "Tongji University",
-        description: <>Master, Sep 2022 — Jul 2026.</>,
+        description: <>Master of Engineering, Sep 2022 — Jul 2026.</>,
       },
       {
         name: "Tianjin University",
@@ -376,7 +376,7 @@ const about: About = {
       {
         title: "Communication",
         tags: [
-          { name: "TOEFL 102" },
+          { name: "TOEFL 5.5/6.0 (≈110/120)" },
           { name: "GRE 324" },
           { name: "Fluent in oral English" },
           { name: "Strong in academic reading" },
