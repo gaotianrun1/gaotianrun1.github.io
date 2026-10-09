@@ -51,8 +51,8 @@ const honors = [
 
 const publicationGroups: PublicationGroup[] = [
   {
-    title: "Preprints / Under Review",
-    note: "",
+    title: "Conferences",
+    note: "asterisk denotes equal contribution",
     items: [
       {
         authors:
@@ -63,19 +63,6 @@ const publicationGroups: PublicationGroup[] = [
         year: "2027",
         link: "",
       },
-      {
-        authors: "Xizhi Tian, Wenhao Deng, Yanqing Shen, Zhikai Chen, Hang Chen, Tianrun Gao, Long Wei",
-        title: "Occam's Progressive Harness for Agentic Migration of Legacy Scientific Program",
-        venue: "Submitted to ICLR 2027",
-        year: "2027",
-        link: "",
-      },
-    ],
-  },
-  {
-    title: "Conferences",
-    note: "asterisk denotes equal contribution",
-    items: [
       {
         authors: "Qianyi Chen*, Tianrun Gao*, Chenbo Jiang*, Tailin Wu",
         title: "EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator",
@@ -139,6 +126,15 @@ const publicationGroups: PublicationGroup[] = [
         year: "2026",
         link: "https://arxiv.org/abs/2602.00598",
         image: "/images/publications/hybridom.png",
+      },
+      {
+        authors:
+          "Xizhi Tian, Wenhao Deng, Yanqing Shen, Zhikai Chen, Hang Chen, Tianrun Gao, Long Wei",
+        title:
+          "Occam's Progressive Harness for Agentic Migration of Legacy Scientific Program",
+        venue: "Submitted to ICLR 2027",
+        year: "2027",
+        link: "",
       },
       {
         authors: "T. R. Gao, D. M. Zhang, X. M. Liu, H. W. Huang",
