@@ -42,7 +42,7 @@ const researchAreas = [
 ];
 
 const honors = [
-  "Top Ten Candidate of the School of Construction Engineering in Tianjin University",
+  "Top Ten Candidate of the School in Tianjin University",
   "Tianjin University Alumni Scholarship",
   "Outstanding Student of Tianjin University",
   "Tianjin Municipal Government Scholarship",
@@ -50,6 +50,28 @@ const honors = [
 ];
 
 const publicationGroups: PublicationGroup[] = [
+  {
+    title: "Preprints / Under Review",
+    note: "",
+    items: [
+      {
+        authors:
+          "Tianrun Gao, Ruiqi Feng, Zhikai Chen, Ruiqi Shu, Liangqiong Qu, Tailin Wu, Long Wei",
+        title:
+          "Multiphysics Post-Training: From Decoupled Modules to Coupled Equilibria",
+        venue: "Submitted to ICLR 2027",
+        year: "2027",
+        link: "",
+      },
+      {
+        authors: "Xizhi Tian, Wenhao Deng, Yanqing Shen, Zhikai Chen, Hang Chen, Tianrun Gao, Long Wei",
+        title: "Occam's Progressive Harness for Agentic Migration of Legacy Scientific Program",
+        venue: "Submitted to ICLR 2027",
+        year: "2027",
+        link: "",
+      },
+    ],
+  },
   {
     title: "Conferences",
     note: "asterisk denotes equal contribution",
@@ -264,11 +286,9 @@ const about: About = {
     title: "Profile",
     description: (
       <>
-        I received my master’s degree in civil engineering from the{" "}
-        <a href="https://civileng.tongji.edu.cn/main.htm">
-          School of Civil Engineering, Tongji University
-        </a>{" "}
-        in 2026, advised by Prof. Hongwei Huang, and my bachelor’s degree from{" "}
+        I received my master’s degree from{" "}
+        <a href="https://www.tongji.edu.cn/">Tongji University</a> in 2026, advised by Prof.
+        Hongwei Huang, and my bachelor’s degree from{" "}
         <a href="https://www.tju.edu.cn/index.htm">Tianjin University</a> in 2022. I am currently a
         research intern at the{" "}
         <a href="https://ai3.fudan.edu.cn/">
@@ -278,7 +298,7 @@ const about: About = {
         supervised by <a href="https://longweizju.github.io/">Prof. Long Wei</a>. I will join the{" "}
         <a href="https://www.cds.hku.hk/">School of Computing and Data Science at The University of
         Hong Kong</a>{" "}
-        as a PhD student in November 2026 (expected), advised by{" "}
+        as a PhD student in November 2026, advised by{" "}
         <a href="https://liangqiong.github.io/">Prof. Liangqiong Qu</a>.
       </>
     ),
@@ -317,11 +337,11 @@ const about: About = {
     institutions: [
       {
         name: "The University of Hong Kong",
-        description: <>Incoming PhD in Computing and Data Science, from Nov 2026 (expected).</>,
+        description: <>Incoming PhD in Computing and Data Science, from Nov 2026.</>,
       },
       {
         name: "Tongji University",
-        description: <>Master of Civil Engineering, Sep 2022 — Jul 2026.</>,
+        description: <>Master, Sep 2022 — Jul 2026.</>,
       },
       {
         name: "Tianjin University",
@@ -383,7 +403,7 @@ const work: Work = {
   path: "/work",
   label: "Publications",
   title: `Publications - ${person.name}`,
-  description: `Peer-reviewed publications and research projects by ${person.name} in AI for science, physical systems, and engineering.`,
+  description: `Publications and preprints by ${person.name} in AI for science, physical systems, and engineering.`,
 };
 
 const featuredPublications = publicationGroups
