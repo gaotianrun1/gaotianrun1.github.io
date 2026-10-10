@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: "* denotes equal contribution; ‡ denotes first author taken by supervisor."
+description: "* denotes equal contribution."
 nav: true
 nav_order: 2
 ---
@@ -14,3 +14,5 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+For earlier publications, see [Google Scholar](https://scholar.google.com/citations?user=pkez5wUAAAAJ&hl=en).
