@@ -1,3 +1,9 @@
 .DS_Store
 node_modules
 /cv/
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
