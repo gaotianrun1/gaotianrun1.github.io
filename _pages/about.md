@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming PhD student, <a href="https://www.hku.hk/">The University of Hong Kong</a>
+subtitle: <a href="https://www.hku.hk/">The University of Hong Kong</a>. Incoming Ph.D. Student
 
 profile:
   align: right
