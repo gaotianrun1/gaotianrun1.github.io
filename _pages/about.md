@@ -23,9 +23,9 @@ latest_posts:
   enabled: false
 ---
 
-I develop physics-aware simulators, generative models, and scientific agents for PDEs, coupled systems, engineering design, and control.
+I am an incoming PhD student at the [School of Computing and Data Science at The University of Hong Kong](https://www.cds.hku.hk/), starting in November 2026 under the supervision of [Prof. Liangqiong Qu](https://liangqiong.github.io/). I am currently a research intern at the [AI Innovation and Incubation Institute at Fudan University](https://ai3.fudan.edu.cn/) and the [Shanghai Academy of AI for Science](https://www.sais.com.cn/), supervised by [Prof. Long Wei](https://longweizju.github.io/).
 
-I received my master's degree from [Tongji University](https://www.tongji.edu.cn/) in 2026, advised by Prof. Hongwei Huang, and my bachelor's degree from [Tianjin University](https://www.tju.edu.cn/index.htm) in 2022. I am currently a research intern at the [Artificial Intelligence Innovation and Incubation Institute at Fudan University](https://ai3.fudan.edu.cn/) and at the [Shanghai Academy of AI for Science (SAIS)](https://www.sais.com.cn/), supervised by [Prof. Long Wei](https://longweizju.github.io/). I will join the [School of Computing and Data Science at The University of Hong Kong](https://www.cds.hku.hk/) as a PhD student in November 2026, advised by [Prof. Liangqiong Qu](https://liangqiong.github.io/).
+I develop physics-aware simulators, generative models, and scientific agents for PDEs, coupled systems, engineering design, and control.
 
 **Research interests**
 
