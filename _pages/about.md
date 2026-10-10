@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming PhD student, <a href="https://www.cds.hku.hk/">School of Computing and Data Science</a>, The University of Hong Kong
+subtitle: Incoming PhD student, <a href="https://www.hku.hk/">The University of Hong Kong</a>
 
 profile:
   align: right
