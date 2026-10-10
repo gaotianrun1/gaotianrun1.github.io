@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers submitted to ICLR 2027.
+Two papers under review.

@@ -9,3 +9,6 @@
 "KDD":
   url: https://kdd.org/
   color: "#009f36"
+
+"Under Review":
+  color: "#6c757d"
