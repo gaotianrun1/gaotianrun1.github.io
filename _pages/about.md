@@ -23,13 +23,10 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student at the [School of Computing and Data Science at The University of Hong Kong](https://www.cds.hku.hk/), supervised by [Prof. Liangqiong Qu](https://liangqiong.github.io/).
+I am a first-year PhD student at the [School of Computing and Data Science, The University of Hong Kong](https://www.cds.hku.hk/), advised by [Prof. Liangqiong Qu](https://liangqiong.github.io/).
 
-I develop physics-aware simulators, generative models, and scientific agents for PDEs, coupled systems, engineering design, and control.
+My goal is to build machine learning models that learn how complex systems evolve, and to use these models to predict, design, and control them. My research covers three directions:
 
-**Research interests**
-
-- Physics-aware AI for simulation, design, control, and discovery
-- PDEs, coupled physical systems, and fusion energy
-- Generative models and agentic systems for science
-- Automated numerical simulation for mechanics and engineering
+1. **Learning algorithms.** Generative models, world models, graph neural networks, and temporal sequence modeling.
+2. **AI for physical systems.** Neural PDE solvers and physics simulators, and their use in engineering design and control.
+3. **AI for health.** Medical image analysis and modeling of longitudinal disease progression.
