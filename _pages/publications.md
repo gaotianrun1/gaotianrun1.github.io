@@ -11,7 +11,10 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="bibliography">Under Review</h2>
+{% bibliography --query @*[journal=Under review] --group_by none %}
+
+{% bibliography --query @*[journal!=Under review] %}
 
 </div>
 
