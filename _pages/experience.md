@@ -30,3 +30,7 @@ nav_order: 3
 </tbody>
 </table>
 </div>
+
+## Academic service
+
+- Conference reviewer: ICLR, CVPR
