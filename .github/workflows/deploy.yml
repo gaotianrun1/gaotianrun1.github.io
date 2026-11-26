@@ -39,6 +39,25 @@ jobs:
           JEKYLL_ENV: production
         run: bundle exec jekyll build
 
+      # The 3D desk (desk-src/, React + three.js) is served at /desk/ and
+      # replaces the placeholder page Jekyll wrote there.
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: desk-src/package-lock.json
+
+      - name: Build desk
+        working-directory: desk-src
+        run: |
+          npm ci --no-audit --no-fund
+          npm run build
+
+      - name: Add desk to site
+        run: |
+          rm -rf _site/desk
+          cp -R desk-src/dist _site/desk
+
       - uses: actions/upload-pages-artifact@v5
         with:
           path: _site

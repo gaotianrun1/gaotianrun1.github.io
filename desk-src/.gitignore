@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+.claude/worktrees/
+public/projects/*/film.mp4
+.wrangler

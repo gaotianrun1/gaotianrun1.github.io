@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- a desk with one orange object on it -->
+  <rect width="120" height="120" rx="26" fill="#fbf6ec"/>
+  <g fill="#2b2925">
+    <rect x="22" y="70" width="76" height="8" rx="2"/>
+    <rect x="30" y="78" width="7" height="22"/>
+    <rect x="83" y="78" width="7" height="22"/>
+  </g>
+  <circle cx="60" cy="54" r="14" fill="#d4612f"/>
+</svg>

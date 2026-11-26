@@ -214,6 +214,7 @@ kramdown:
 include: ["_pages"]
 exclude:
   - AGENTS.md
+  - desk-src/
   - al-folio-upgrade-report.md
   - bin/
   - CLAUDE.md
